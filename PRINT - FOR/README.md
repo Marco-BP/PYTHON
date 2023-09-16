@@ -1,0 +1,1 @@
+Este programa ilustra el comportamiento de la función "print" cuando se utiliza tanto dentro como fuera de un bucle "for".
